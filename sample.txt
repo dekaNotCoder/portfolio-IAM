@@ -1,0 +1,9 @@
+﻿this
+file
+is
+basically
+use
+for
+merging
+added some more information for update remote file to local 
+added some more information to understand git rebase/pull 
